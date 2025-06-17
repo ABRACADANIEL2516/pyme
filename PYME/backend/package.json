@@ -1,8 +1,8 @@
 {
-  "name": "Sistema-facturacion",
+  "name": "sistema-de-facturacion",
   "version": "1.0.0",
   "type": "module",
-  "description": "Facturacion",
+  "description": "Basic billing backend (Express + MySQL + PDF)",
   "main": "src/server.js",
   "scripts": {
     "dev": "nodemon src/server.js",
